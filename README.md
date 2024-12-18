@@ -12,6 +12,8 @@ This project provides a FastAPI microservice for predicting crime types based on
 
 ## Setup
 
+Download the data from : https://data.cityofchicago.org/Public-Safety/Crimes-2022/9hwr-2zxp 
+
 ### Prerequisites
 - Python 3.7+
 - FastAPI
