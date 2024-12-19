@@ -6,7 +6,7 @@ const AboutPage = () => {
   return (
     <div className="min-h-screen bg-gradient-to-br from-gray-900 via-gray-800 to-gray-900">
       <div className="max-w-6xl mx-auto px-4 py-20 sm:px-6 lg:px-8">
-        {/* Hero Section */}
+       
         <div className="text-center mb-16">
           <h1 className="text-4xl font-bold text-white mb-4">
             About The Developer
@@ -14,7 +14,7 @@ const AboutPage = () => {
           <div className="w-20 h-1 bg-red-600 mx-auto mb-8"></div>
         </div>
 
-        {/* Developer Profile Section */}
+      
         <div className="bg-gray-800 rounded-xl shadow-2xl overflow-hidden mb-16">
           <div className="md:flex">
             <div className="md:w-1/3 flex justify-center items-center">
